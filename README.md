@@ -9,4 +9,4 @@ The old Verge logo can be found in folder /Legacy Icons. The logo should not be 
 ## Authors
 
 Logo redesign, colors and branding guideline: @waveon3 <br>
-Wraith Protocol logo: Dennis
+
