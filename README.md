@@ -4,7 +4,7 @@ This is our Repo for Graphics, Logos and branding material that you can use. We 
 
 The official font used for Verge Currency is Avenir Next.
 
-The old Verge logo can be found in folder /Legacy Icons. The logo should not be used for referencing Verge.
+The old Verge logo can be found in folder "/Legacy files (arhived)". The logo should not be used for referencing Verge.
 
 ## Authors
 
